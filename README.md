@@ -1,7 +1,5 @@
 # Facial-Expression-Recognition
 
-Keras Fashion MNIST dataset
- 
 **Facial Expression Recognition with Tensorflow and Keras**
  
  This is a multi class classification problem
